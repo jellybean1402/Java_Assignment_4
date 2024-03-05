@@ -27,3 +27,7 @@
 - `findCard()`: Prompts the user to input a suit and rank to find a specific card in the deck.
 - `dealCard()`: Deals a hand of 5 cards from the deck, removing them in the process.
 
+**Main Class:**
+- Contains the main method to execute the card deck management program.
+- Creates an instance of the `Deck` class.
+- Invokes the `createDeck()` method on the deck instance to start the card deck operations.
